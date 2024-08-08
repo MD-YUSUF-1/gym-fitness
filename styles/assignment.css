@@ -33,6 +33,10 @@ body{
   font-weight: 800;
 }
 
+main>section{
+  margin-top: 95px;
+}
+
 
 /* NavBar styles starts here */
 .navbar{
@@ -78,8 +82,9 @@ body{
 
 
 /* Footer styles starts here */
-footer{
+footer{ 
   background-color: rgba(255, 255, 255, 0.10);
+  margin-top: 90px;
 }
 .footer{
   display: grid;
@@ -106,8 +111,6 @@ hr{
   width:74% ;
   margin: 0 auto;
   border: 1px solid rgba(255, 255, 255, 0.10);
-  /* stroke-width: 2px;
-stroke: rgba(255, 255, 255, 0.10); */
 }
 .footer-copywrite{
   text-align: center;
