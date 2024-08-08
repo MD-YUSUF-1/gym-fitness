@@ -1,4 +1,14 @@
 @media screen and (max-width:576px) {
+    
+    
+    .team-img-continer{
+        grid-template-columns:1fr;
+        padding: 15px;
+        gap: 20px;
+      }
+      .team-img{
+        width: 280px;
+      }
     footer{
         margin-top: 60px;
     }
